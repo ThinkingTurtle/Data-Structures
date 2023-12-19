@@ -8,4 +8,5 @@
 
 ## Important Notes:
 - Do not modify the `tests/` folder.
+This is Aaranav Singh, a student of Colorado School of Mines.
 
